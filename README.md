@@ -4,7 +4,7 @@ O CRUD é algo inerente a software, quase sempre precisamos armazenar dados, por
 
 e pautar o domínio/regras de negócio em torno do CRUD levará a construção de software engessados, difícil de manter e que não se pagarão ao longo do tempo.
 
-Neste [vídeo ,](https://youtu.be/ZaKHnAnbakA?si=zNVpGBH2ZFnRurcu) vamos discutir como o CRUD contamina o design do software desde a projeção dos meios de comunicação, camadas de serviços e camadas de negócio, 
+Neste [vídeo ,](https://youtu.be/RyfOGfYuwGk) vamos discutir como o CRUD contamina o design do software desde a projeção dos meios de comunicação, camadas de serviços e camadas de negócio, 
 
 mas vamos discutir maneiras de desapegar disto.
 
